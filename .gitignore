@@ -38,3 +38,24 @@ captures/
 
 # Keystore files
 *.jks
+
+*.classpath
+*.project
+
+Server/src/org
+
+
+*.DS_Store
+*._.DS_Store
+
+org.eclipse.*
+
+*.bat
+*.gradle
+gradlew
+
+AndroidApp/app/libs
+
+AndroidApp/.idea
+
+*.pro
