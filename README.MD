@@ -4,7 +4,7 @@ An app that lets you talk to classmates without needing to share sensitive infor
 
 Team members
 
-[Bruno Harger Alves](https://github.com/bhazero025), [Jerry Reed](http://frontdoor.valenciacollege.edu/?greed9), Shibli MD T A
+[Bruno Harger Alves](https://github.com/bhazero025), [Jerry Reed](http://frontdoor.valenciacollege.edu/?greed9), [Shibli MD T A](https://github.com/MD-Shibli-Mollah)
 
 
 # Technologies Used
