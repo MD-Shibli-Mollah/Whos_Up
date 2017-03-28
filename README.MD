@@ -14,3 +14,5 @@ Team members
 [Cisco Spark](https://developer.ciscospark.com/)
 
 [Org.Json](https://github.com/stleary/JSON-java)
+
+[Apache HC](https://hc.apache.org/)
