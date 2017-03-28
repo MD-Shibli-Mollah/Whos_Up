@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_24ac425da7ed4d4b1d0299df059199a006e27794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1b59a4db0d698dc1c13c1658c68005c281f60630">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0a9bd8b73c1f05fed256c4c36000eb7693eefb50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_7d59c3bec3e9e13c48ec8c2b54d43c185e764cfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_9d793a252273a16b96e4b7fdf432b0a2705d0bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7ed0690a8dca89c3029505398b86cb2b65a597ce">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_04263d514452c835345861d4fb96767498f4ee2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7d6681fb0e9fb3433015516c20a104c0e73cba48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\libs\vidyoclient.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7892c575987fe08bfdb02ef756bf27591a31f78e">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\2\vidyoclient_7f966ec922cd0727d81d57c8026f5833c219ee9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_83fabb64582d7fbd70813faa76ee76edca4d87f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_2d435a343cf93589c41841c1be629f61b89d0fc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7ada103ee396f23dc3eb27d9e06f55f7c5a37a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_a5b99b91b8779782875644428f5a6aaf0fda32db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\student\Desktop\Hackathon\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\student\Desktop\Hackathon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_ad963816be5bac40fc14f777bae57a90da3e07e2\classes.dex" />
+    </item>
+
+</items>
