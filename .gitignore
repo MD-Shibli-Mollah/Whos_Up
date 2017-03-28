@@ -52,6 +52,5 @@ org.eclipse.*
 
 AndroidApp/app/libs
 
-AndroidApp/.idea
 
 *.pro
